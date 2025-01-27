@@ -4,7 +4,7 @@
 # Transformando o Mundo das Finanças com a IA!
 
 ## 📒 Descrição
-Neste video você irá descobrir como a IA está sendo utilizada e como esa tecnologia pode facilitar sua vida financeira e abrir novas oportunidades!
+Neste video você irá descobrir como a IA está sendo utilizada e como essa tecnologia pode facilitar sua vida financeira e abrir novas oportunidades!
 
 ## 🤖 Tecnologias Utilizadas
 IA Generativa ChatGPT para roteirização e revisão;
@@ -19,4 +19,6 @@ O material apresenta informações relevantes com linguagem de fácil entendimen
 ## 💭 Reflexão (Opcional)
 Este trabalho foi muito desafiador, visto que foi meu primeiro contato com o assunto e ferramentas, bem como não sou desenvolvedora. Tive algumas dificuldades para geração do vídeo e ao final a velocidade da voz não ficou adequada, mas como primeira experiência, fiquei satisfeita por conseguir concluir o desafio.
 ```
+LINK DO VIDEO
+https://studio.d-id.com/share?id=4a2b3fce2733cc4ff94209c58bc11c1e&utm_source=copy
 
